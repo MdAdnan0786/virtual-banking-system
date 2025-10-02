@@ -21,7 +21,7 @@ The Banking System is a Java Swing application that simulates basic banking oper
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/banking-system.git
+   git clone https://github.com/MdAdnan0786/virtual-banking-system.git
    cd virtual-banking-system
    
    ```
