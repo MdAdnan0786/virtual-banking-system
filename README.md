@@ -22,7 +22,7 @@ The Banking System is a Java Swing application that simulates basic banking oper
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/banking-system.git
-   cd banking-system
+   cd virtual-banking-system
    
    ```
 2. Run Project
